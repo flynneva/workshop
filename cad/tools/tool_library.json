@@ -1,0 +1,29 @@
+{
+  "Tools": {
+    "1": {
+      "cornerRadius": 0.0,
+      "cuttingEdgeAngle": 180.0,
+      "cuttingEdgeHeight": 10.0,
+      "diameter": 3.175,
+      "flatRadius": 0.0,
+      "lengthOffset": 15.0,
+      "material": "Carbide",
+      "name": "1/8\" 4T",
+      "tooltype": "Undefined",
+      "version": 1
+    },
+    "2": {
+      "cornerRadius": 0.0,
+      "cuttingEdgeAngle": 180.0,
+      "cuttingEdgeHeight": 0.0,
+      "diameter": 0.0,
+      "flatRadius": 0.0,
+      "lengthOffset": 15.0,
+      "material": "Carbide",
+      "name": "2F Spiral Tapered Ballnose",
+      "tooltype": "BallEndMill",
+      "version": 1
+    }
+  },
+  "Version": 1
+}
